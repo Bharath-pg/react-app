@@ -5,3 +5,5 @@
 * To run only react app use **yarn start or npm start**
 * To run node server first build using cmd **yarn build** and then change directory to server and run the node server using cmd **node index.js**
 
+**client** folder contains react app part<br />
+ **server** folder contains node js and express
